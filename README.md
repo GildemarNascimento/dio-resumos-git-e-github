@@ -6,3 +6,4 @@ Repossitorio para armazenamento de resumos do curso de versionamento de código 
 
 |Aulas |Resumo |
 |Gravando no repositorio local|[Digital Innovetion One]().|
+Texto
